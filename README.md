@@ -75,3 +75,4 @@ Ushbu loyiha Figma platformasidagi **Cleaning-X (Quality cleaning for your home 
   - `initRoomTabs()` — Xonalar bo'yicha interaktiv tekshiruv ro'yxati.
   - `initQuoteCalculator()` — Narxni dinamik qayta hisoblash va forma validatsiyasi.
 - **Vercel**: `vercel.json` orqali toza URL manzillari bilan global joylashtirishga tayyor.
+
